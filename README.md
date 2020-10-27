@@ -34,3 +34,8 @@ THEN the saved events persist
 
 Finished Demo
 ![demoGif](https://github.com/timvvoodman/Work-Day-Scheduler/blob/master/Work_Day_Scheduler_Demo.gif)
+
+Reflections:
+
+- I actually found it was easier to add some of my own CSS rather that match all the included css. Something I'll have to pay close attention to durring the homework review.
+- I was unable to find way to avoid repeating code in lines 85 - 153. I beleive this is beacuase of the way I desiced to dynamicaly add unique IDs to the html in the jQuery template in lines 76-81.
